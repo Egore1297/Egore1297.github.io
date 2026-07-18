@@ -1,21 +1,24 @@
-# Egore Web Studio
+# Egore Web Studio v2
 
-Landing page estática lista para GitHub Pages.
+Sitio estático listo para GitHub Pages.
 
-## Personalización necesaria
+## Publicación
 
-Antes de publicar, reemplaza en `index.html`:
+1. Descarga y descomprime el ZIP.
+2. Sube `index.html`, `styles.css` y `script.js` a la raíz del repositorio `Egore1297/Egore1297.github.io`.
+3. Confirma los cambios en la rama `main`.
+4. GitHub Pages actualizará el sitio automáticamente.
 
-- `5214430000000` por tu número de WhatsApp con código de país.
-- `tu-correo@ejemplo.com` por tu correo.
-- Los precios si deseas cambiarlos.
-- El enlace del proyecto Florette MX si el repositorio usa otro nombre.
+## Antes de publicar
 
-## Publicación en GitHub Pages
+Edita estos datos en `index.html`:
 
-1. Crea un repositorio llamado `Egore1297.github.io`.
-2. Sube `index.html` y este `README.md` a la raíz.
-3. Abre **Settings → Pages**.
-4. Selecciona **Deploy from a branch**.
-5. Elige la rama `main` y la carpeta `/ (root)`.
-6. La página estará disponible en `https://egore1297.github.io/`.
+- WhatsApp: busca `5214430000000` y reemplázalo con tu número.
+- Correo: busca `tu-correo@ejemplo.com` y reemplázalo con tu correo real.
+- Precios: ajusta las cantidades si deseas usar otros paquetes.
+
+## Proyecto Florette
+
+El portafolio ya incluye este enlace:
+
+https://egore1297.github.io/Florette-proposal/
